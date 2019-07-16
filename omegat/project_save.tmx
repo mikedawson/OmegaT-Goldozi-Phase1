@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Activity 2: Mark an item as delivered</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T183548Z" creationid="GMH" creationdate="20190716T183548Z">
+        <seg>فعالیت دوم: نشانی ساختن یک جنس به حیث جنس تسلیم داده شده</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All orders are tracked in the Goldozi &lt;t0/&gt;A&lt;t1/&gt;pp</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182337Z" creationid="GMH" creationdate="20190716T180404Z">
@@ -338,6 +346,38 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T183244Z" creationid="GMH" creationdate="20190716T183244Z">
         <seg>گام 5/9: روی متشبث که این جنس را ساخته است، لمس کنید تا انتخاب گردد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 6 of 9: Tap to select an item</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T183312Z" creationid="GMH" creationdate="20190716T183312Z">
+        <seg>گام 6/9: لمس کنید تا یک جنس را انتخاب نمایید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 7 of 9: Tap to record the quantity and price per piece</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T183418Z" creationid="GMH" creationdate="20190716T183418Z">
+        <seg>گام 7/9: لمس کنید تا مقدار و قیمت هر پارچه را ثبت کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 8 of 9: Tap to record the item as sold</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T183451Z" creationid="GMH" creationdate="20190716T183451Z">
+        <seg>گام 8/9: لمس کنید تا جنس را فروخته شده ثبت نمایید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 9 of 9: Tap &lt;t0/&gt;&gt;SAVE</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T183509Z" creationid="GMH" creationdate="20190716T183509Z">
+        <seg>گام 9/9: روی ثبت لمس کنید</seg>
       </tuv>
     </tu>
     <tu>
