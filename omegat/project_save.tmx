@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>Manage sales to customers (Phase 1)</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174659Z" creationid="GMH" creationdate="20190716T174659Z">
+        <seg>مدیریت فروشات به مشتریان (مرحله اول)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Over the course of the Goldozi Certificate Training Course, you will learn how to use the Goldozi app to:</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174609Z" creationid="GMH" creationdate="20190716T174609Z">
+        <seg>در جریان کورس تریننگ گلدوزی، شما خواهید آموخت که ازین اپلیکیشن برای موارد ذیل استفاده کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Technology to Improve Business</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174303Z" creationid="GMH" creationdate="20190716T174303Z">
