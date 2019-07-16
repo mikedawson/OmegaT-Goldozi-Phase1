@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>Activity 1: Record a sale</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182757Z" creationid="GMH" creationdate="20190716T182757Z">
+        <seg>فعالیت اول: ثبت یک فروش</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All orders are tracked in the Goldozi &lt;t0/&gt;A&lt;t1/&gt;pp</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182337Z" creationid="GMH" creationdate="20190716T180404Z">
@@ -96,8 +104,8 @@
       <tuv lang="EN-US">
         <seg>Learn how to find and edit a sale that you have recorded.</seg>
       </tuv>
-      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182556Z" creationid="GMH" creationdate="20190716T182556Z">
-        <seg>یاد بگیرید که چگونه یک فروش ثبت شده  را پیدا نموده و آنرا تصحیح نماید</seg>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182644Z" creationid="GMH" creationdate="20190716T182556Z">
+        <seg>یاد بگیرید که چگونه یک فروش ثبت شده  را پیدا نموده و آنرا تصحیح نمایید</seg>
       </tuv>
     </tu>
     <tu>
@@ -122,6 +130,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T180542Z" creationid="GMH" creationdate="20190716T180542Z">
         <seg>چگونگی ثبت یک فروش را یاد بگیرید.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn how to view due payments and record partial or full payments.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182741Z" creationid="GMH" creationdate="20190716T182741Z">
+        <seg>یاد بگیرید که چگونه پولهای باقیمانده را مشاهده نموده و پولهای قسماً پرداخت شده و یا کاملاً پرداخت شده را ثبت نمایید.</seg>
       </tuv>
     </tu>
     <tu>
@@ -282,6 +298,22 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174755Z" creationid="GMH" creationdate="20190716T174755Z">
         <seg>نشان دادن محصولات به مشتریان (مرحله دوم)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 1 of 9: Log into the &lt;t0/&gt;Goldozi&lt;t1/&gt; app</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182849Z" creationid="GMH" creationdate="20190716T182849Z">
+        <seg>گام 1/9: به اپلیکیشن گلدوزی داخل شوید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 2 of 9: T&lt;t0/&gt;ap&lt;t1/&gt; &lt;t2/&gt;&gt;&lt;t3/&gt;Record&lt;t4/&gt; &lt;t5/&gt;Sale</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182949Z" creationid="GMH" creationdate="20190716T182949Z">
+        <seg>گام 2/9: روی ثبت فروش کلیک کنید</seg>
       </tuv>
     </tu>
     <tu>
