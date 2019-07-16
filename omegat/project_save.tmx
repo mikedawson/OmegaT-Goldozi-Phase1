@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>Increase efficiency and accuracy</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175223Z" creationid="GMH" creationdate="20190716T175223Z">
+        <seg>میزان کارائی و دقت را بلند خواهد برد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learn and reinforce skills (Phase 1)</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174732Z" creationid="GMH" creationdate="20190716T174732Z">
@@ -30,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>O&lt;t0/&gt;rganizing                Managing                 Tracking                  Sales</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175131Z" creationid="GMH" creationdate="20190716T175131Z">
+        <seg>ت&lt;t0/&gt;ترتیب                مدیریت                 تعقیب و پیگیری                  فروشات</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Over the course of the Goldozi Certificate Training Course, you will learn how to use the Goldozi app to:</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174609Z" creationid="GMH" creationdate="20190716T174609Z">
@@ -46,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save time and money</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175249Z" creationid="GMH" creationdate="20190716T175249Z">
+        <seg>از ضایع شدن وقت و پول جلوگیری خواهد نمود</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show products to customers (Phase 2)</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174755Z" creationid="GMH" creationdate="20190716T174755Z">
@@ -58,6 +82,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174303Z" creationid="GMH" creationdate="20190716T174303Z">
         <seg>تکنالوژی برای پیشرفت تجارت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The App will:</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175200Z" creationid="GMH" creationdate="20190716T175200Z">
+        <seg>این اپلیکیشن:</seg>
       </tuv>
     </tu>
     <tu>
