@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please share any additional thoughts on the &lt;t0/&gt;training&lt;t1/&gt; and/or facilitator.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T200710Z" creationid="GMH" creationdate="20190716T200710Z">
+        <seg>لطفاً نظریات دیگر خود را در مورد تریننگ و یا ترینر شریک سازید. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Practical Exam</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T192116Z" creationid="GMH" creationdate="20190716T192116Z">
@@ -1338,6 +1346,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T200416Z" creationid="GMH" creationdate="20190716T200416Z">
         <seg>کدام قسمت تریننگ برایتان بیشتر مورد پسند بود؟ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What do you think needs to be changed or improved?</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T200619Z" creationid="GMH" creationdate="20190716T200619Z">
+        <seg>کدام مورد را میخواهید که باید تغییر کند و یا اصلاح شود؟ </seg>
       </tuv>
     </tu>
     <tu>
