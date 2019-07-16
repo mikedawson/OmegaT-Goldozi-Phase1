@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Activity 3: Record a payment or a partial payment</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T183802Z" creationid="GMH" creationdate="20190716T183802Z">
+        <seg>فعالیت 3: ثبت پول پرداخت شده یا قسماً پرداخت شده </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All orders are tracked in the Goldozi &lt;t0/&gt;A&lt;t1/&gt;pp</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182337Z" creationid="GMH" creationdate="20190716T180404Z">
@@ -310,10 +318,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 1 of 2: To record an item as delivered, tap &lt;t0/&gt;&gt;Delivery signature</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T183630Z" creationid="GMH" creationdate="20190716T183630Z">
+        <seg>گام 1/2: برای ثبت یک جنس منحیث جنس فروخته شده، روی امضأ تسلیم دهی لمس کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 1 of 4: Tap &lt;t0/&gt;&gt;Add payment</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T183834Z" creationid="GMH" creationdate="20190716T183834Z">
+        <seg>گام 1/4: روی علاوه ساختن پول پرداخت شده لمس کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 1 of 9: Log into the &lt;t0/&gt;Goldozi&lt;t1/&gt; app</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182849Z" creationid="GMH" creationdate="20190716T182849Z">
         <seg>گام 1/9: به اپلیکیشن گلدوزی داخل شوید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 2 of 2: Ask your customer to sign the screen and tap &lt;t0/&gt;&gt;ACCEPT &lt;t1/&gt;to save their signature</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T183727Z" creationid="GMH" creationdate="20190716T183727Z">
+        <seg>گام 2/2: از مشتری خود بخواهید که روی اسکرین امضأ نموده و روی قبول لمس کند تا امضأ آنها ثبت گردد</seg>
       </tuv>
     </tu>
     <tu>
