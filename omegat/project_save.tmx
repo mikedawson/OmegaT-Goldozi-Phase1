@@ -1118,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;facilitator provided helpful feedback an assistance during every lesson.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T195823Z" creationid="GMH" creationdate="20190716T195823Z">
+        <seg>ترینر در جریان هر درس بازدهی یا نظریات سازنده ارائیه نمود و کمک نمود</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;t0/&gt;facilitator shared their experience with the participants to be able to relate to the content being discussed.</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T195344Z" creationid="GMH" creationdate="20190716T195344Z">
@@ -1150,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;pace of the training was good.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T195534Z" creationid="GMH" creationdate="20190716T195534Z">
+        <seg>سرعت تریننگ خوب بود</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The App will:</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175200Z" creationid="GMH" creationdate="20190716T175200Z">
@@ -1170,6 +1186,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T195032Z" creationid="GMH" creationdate="20190716T195032Z">
         <seg>محتویات با ضرورتهای نقش مرتبط بود</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The duration of the le&lt;t0/&gt;ssons&lt;t1/&gt; &lt;t2/&gt;was&lt;t3/&gt; appropriate for the content objectives and complexity.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T195710Z" creationid="GMH" creationdate="20190716T195710Z">
+        <seg>مدت دروس برای محتویات اهداف و مغلق بودن آنها مناسب بود </seg>
       </tuv>
     </tu>
     <tu>
