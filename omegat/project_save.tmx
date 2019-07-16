@@ -38,6 +38,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Activity 5: Add order notes</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T184213Z" creationid="GMH" creationdate="20190716T184213Z">
+        <seg>فعالیت پنجم: علاوه ساختن یادداشتهای فرمایش</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activity 6: &lt;t0/&gt;Record&lt;t1/&gt; a &lt;t2/&gt;pre&lt;t3/&gt;-order</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T184349Z" creationid="GMH" creationdate="20190716T184349Z">
+        <seg>فعالیت 6: ثبت یک فرمایش قبلی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activity 6: Record a pre-order</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T184329Z" creationid="GMH" creationdate="20190716T184329Z">
+        <seg>فعالیت 6: ثبت یک فرمایش قبلی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All orders are tracked in the Goldozi &lt;t0/&gt;A&lt;t1/&gt;pp</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182337Z" creationid="GMH" creationdate="20190716T180404Z">
@@ -270,6 +294,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Option 1: To type order notes, tap &lt;t0/&gt;&gt;Order notes</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T184244Z" creationid="GMH" creationdate="20190716T184244Z">
+        <seg>اختیار 1: برای نوشتن یادداشتهای فرمایش، روی یادداشتهای فرمایش لمس کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Option 2: To record a voice note, tap the microphone</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T184311Z" creationid="GMH" creationdate="20190716T184311Z">
+        <seg>اختیار2: برای ثبت یادداشت صوتی: روی مایکروفون لمس کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Over the course of the Goldozi Certificate Training Course, you will learn how to use the Goldozi app to:</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174609Z" creationid="GMH" creationdate="20190716T174609Z">
@@ -426,6 +466,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T183418Z" creationid="GMH" creationdate="20190716T183418Z">
         <seg>گام 7/9: لمس کنید تا مقدار و قیمت هر پارچه را ثبت کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 8 of 9: Tap to record the item as a pre-order, set the pre-order due date and a reminder</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T184540Z" creationid="GMH" creationdate="20190716T184540Z">
+        <seg>گام 8/9: لمس کنید تا جنس را منحیث جنس فرمایش قبلی ثبت کرده، تاریخ موعود برای فرمایش قبلی را تعین نموده و یک یادآور تعین نمایید</seg>
       </tuv>
     </tu>
     <tu>
