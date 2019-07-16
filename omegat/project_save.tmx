@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NO</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T194740Z" creationid="GMH" creationdate="20190716T194740Z">
+        <seg>نخیر</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>O&lt;t0/&gt;rganizing                Managing                 Tracking                  Sales</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175131Z" creationid="GMH" creationdate="20190716T175131Z">
@@ -1086,6 +1094,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;lesson objectives were clearly defined.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T194812Z" creationid="GMH" creationdate="20190716T194812Z">
+        <seg>اهداف دروس به شکل واضح تعریف گردیده بود </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;lesson objectives were covered by the facilitator.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T194846Z" creationid="GMH" creationdate="20190716T194846Z">
+        <seg>اهداف درس توسط ترینر تحت پوشش قرار گرفت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The App will:</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175200Z" creationid="GMH" creationdate="20190716T175200Z">
@@ -1098,6 +1122,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174232Z" creationid="GMH" creationdate="20190716T174232Z">
         <seg>اپلیکیشن موبایل گلدوزی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The lessons were the right level of complexity for my background.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T195005Z" creationid="GMH" creationdate="20190716T195005Z">
+        <seg>مغلق بودن دروس با پس منظر کاری من هم سطح بود</seg>
       </tuv>
     </tu>
     <tu>
@@ -1154,6 +1186,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190258Z" creationid="GMH" creationdate="20190716T190258Z">
         <seg>به امید مؤفقیت شما</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>YES</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T194738Z" creationid="GMH" creationdate="20190716T194738Z">
+        <seg>بلی</seg>
       </tuv>
     </tu>
     <tu>
