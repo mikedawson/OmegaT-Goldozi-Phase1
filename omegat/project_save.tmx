@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If an LE fails the exam, supplementary training and a resit is required.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T191634Z" creationid="GMH" creationdate="20190716T191634Z">
+        <seg>اگر متشبث پشتاز در امتحان ناکام شود، به تریننگ اضافی و تنظیم دوباره ضرورت است</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Your Professional Endeavors</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190313Z" creationid="GMH" creationdate="20190716T190313Z">
@@ -458,6 +466,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175249Z" creationid="GMH" creationdate="20190716T175249Z">
         <seg>از ضایع شدن وقت و پول جلوگیری خواهد نمود</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section 1 comprises 2 tasks, section 2 comprises 4 tasks, and section 3 comprises 1 task.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T191351Z" creationid="GMH" creationdate="20190716T191351Z">
+        <seg>بخش 1 شامل 2 فعالیت، بخش 2 سامل 4 فعالیت، و بخش 3 شامل 1 فعالیت میباشد.</seg>
       </tuv>
     </tu>
     <tu>
@@ -826,6 +842,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174232Z" creationid="GMH" creationdate="20190716T174232Z">
         <seg>اپلیکیشن موبایل گلدوزی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The practical exam comprises three sections.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T191315Z" creationid="GMH" creationdate="20190716T191315Z">
+        <seg>امتحان عملی شامل سه بخش میباشد.</seg>
       </tuv>
     </tu>
     <tu>
