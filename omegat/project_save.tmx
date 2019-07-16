@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t25/&gt;You&lt;t26/&gt; &lt;t27/&gt;don‘t&lt;t28/&gt; &lt;t29/&gt;have&lt;t30/&gt; &lt;t31/&gt;this&lt;t32/&gt; &lt;t33/&gt;scarf&lt;t34/&gt; in stock.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T192858Z" creationid="GMH" creationdate="20190716T192858Z">
+        <seg>شما این چادر را در ذخیره گاه خود ندارید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t9/&gt;They&lt;t10/&gt; &lt;t11/&gt;would&lt;t12/&gt; like &lt;t13/&gt;to&lt;t14/&gt; &lt;t15/&gt;buy&lt;t16/&gt; &lt;t17/&gt;two&lt;t18/&gt; &lt;t19/&gt;scarves&lt;t20/&gt; &lt;t21/&gt;from&lt;t22/&gt; &lt;t23/&gt;you&lt;t24/&gt;.</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T192517Z" creationid="GMH" creationdate="20190716T192517Z">
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190215Z" creationid="GMH" creationdate="20190716T190215Z">
         <seg>فعالیت: برای امتحان عملی خود آماده شوید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add &lt;t0/&gt;the&lt;t1/&gt; &lt;t2/&gt;scarf&lt;t3/&gt; &lt;t4/&gt;to&lt;t5/&gt; &lt;t6/&gt;the&lt;t7/&gt; &lt;t8/&gt;customer‘s&lt;t9/&gt; &lt;t10/&gt;order&lt;t11/&gt;.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T192934Z" creationid="GMH" creationdate="20190716T192934Z">
+        <seg>این چادر را در فرمایش مشتری خود اضافه کنید</seg>
       </tuv>
     </tu>
     <tu>
@@ -934,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Task 2:</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T192904Z" creationid="GMH" creationdate="20190716T192904Z">
+        <seg>فعالیت 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Technology to Improve Business</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174303Z" creationid="GMH" creationdate="20190716T174303Z">
@@ -1010,6 +1034,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190258Z" creationid="GMH" creationdate="20190716T190258Z">
         <seg>به امید مؤفقیت شما</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your&lt;t0/&gt; &lt;t1/&gt;customer&lt;t2/&gt; &lt;t3/&gt;makes&lt;t4/&gt; a partial &lt;t5/&gt;payment&lt;t6/&gt; &lt;t7/&gt;of&lt;t8/&gt; 50 &lt;t9/&gt;Afs&lt;t10/&gt; on &lt;t11/&gt;their&lt;t12/&gt; &lt;t13/&gt;order&lt;t14/&gt;.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T193049Z" creationid="GMH" creationdate="20190716T193049Z">
+        <seg>مشتری شما قسمتی از پول را به مبلغ 50 افغانی در فرمایش خود پرداخت میکند </seg>
       </tuv>
     </tu>
     <tu>
