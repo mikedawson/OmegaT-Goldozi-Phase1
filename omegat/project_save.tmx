@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Activity 4: Add another item to a sale</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T184107Z" creationid="GMH" creationdate="20190716T184107Z">
+        <seg>فعالیت 4: علاوه ساختن یک جنس دیگر در فروش</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All orders are tracked in the Goldozi &lt;t0/&gt;A&lt;t1/&gt;pp</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182337Z" creationid="GMH" creationdate="20190716T180404Z">
@@ -350,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 2 of 4: Tap &lt;t0/&gt;&gt;P&lt;t1/&gt;a&lt;t2/&gt;yment&lt;t3/&gt; amount &lt;t4/&gt;and record the amount that has been paid</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T183929Z" creationid="GMH" creationdate="20190716T183929Z">
+        <seg>گام 2/4: روی مقدار پرداخت کلیک کنید و مقدار پول پرداخت شده را ثبت کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 2 of 9: T&lt;t0/&gt;ap&lt;t1/&gt; &lt;t2/&gt;&gt;&lt;t3/&gt;Record&lt;t4/&gt; &lt;t5/&gt;Sale</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182949Z" creationid="GMH" creationdate="20190716T182949Z">
@@ -358,10 +374,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 3 of 4: Tap to record the date of the payment</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T184002Z" creationid="GMH" creationdate="20190716T184002Z">
+        <seg>گام 3/4: لمس کنید تا تاریخ پرداخت پول ثبت گردد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 3 of 9: Tap &lt;t0/&gt;&gt;Location &lt;t1/&gt;to select the correct location</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T183117Z" creationid="GMH" creationdate="20190716T183117Z">
         <seg>گام 3/9: روی موقعیت لمس کنید تا موقعیت درست را انتخاب نمایید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 4 of 4: Tap &lt;t0/&gt;&gt;SAVE</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T184019Z" creationid="GMH" creationdate="20190716T184019Z">
+        <seg>گام 4/4: روی ثبت لمس کنید</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +442,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T183509Z" creationid="GMH" creationdate="20190716T183509Z">
         <seg>گام 9/9: روی ثبت لمس کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tap &lt;t0/&gt;&gt;Add Item &lt;t1/&gt;and repeat steps 3-9 in &lt;t2/&gt;Activity 1</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T184149Z" creationid="GMH" creationdate="20190716T184149Z">
+        <seg>روی علاوه ساختن جنس لمس کنید و گامهای 3 الی 9 فعالیت اول را تکرار کنید</seg>
       </tuv>
     </tu>
     <tu>
