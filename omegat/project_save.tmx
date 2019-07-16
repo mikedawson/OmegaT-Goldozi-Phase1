@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Key activities for lead entrepreneurs:</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T180022Z" creationid="GMH" creationdate="20190716T180022Z">
+        <seg>فعالیتهای کلیدی برای متشبثین پیشتاز:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learn and reinforce skills (Phase 1)</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174732Z" creationid="GMH" creationdate="20190716T174732Z">
@@ -90,6 +98,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174659Z" creationid="GMH" creationdate="20190716T174659Z">
         <seg>مدیریت فروشات به مشتریان (مرحله اول)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Managing and tracking orders</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T180044Z" creationid="GMH" creationdate="20190716T180044Z">
+        <seg>مدیریت و تعقیب نمودن فرمایشات</seg>
       </tuv>
     </tu>
     <tu>
@@ -186,6 +202,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175045Z" creationid="GMH" creationdate="20190716T175045Z">
         <seg>هدف &lt;t0/&gt;گلدوزی&lt;t1/&gt; اپلیکیشن این است تا با شما کمک کند که فروشات خود را مدیریت کنید و بیشتر بسازید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tracking payments received from customers and payments issued to producers</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T180215Z" creationid="GMH" creationdate="20190716T180215Z">
+        <seg>تعقیب و پیگیری پولهای پرداخت شده از طرف مشتریان و پولهای پرداخت شده به تهیه کننده گان محصول</seg>
       </tuv>
     </tu>
     <tu>
