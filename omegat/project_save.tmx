@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adequate Internet access was provided.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T200117Z" creationid="GMH" creationdate="20190716T200117Z">
+        <seg>دسترسی به انترنیت به اندازه مناسب بود. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All orders are tracked in the Goldozi &lt;t0/&gt;A&lt;t1/&gt;pp</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182337Z" creationid="GMH" creationdate="20190716T180404Z">
@@ -194,6 +202,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182312Z" creationid="GMH" creationdate="20190716T180327Z">
         <seg>اپلیکیشن گلدوزی چگونه کمک میکند:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I was able to charge my mobile phone.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T200049Z" creationid="GMH" creationdate="20190716T200049Z">
+        <seg>من توانستم موبایل خود را چارج نمایم</seg>
       </tuv>
     </tu>
     <tu>
@@ -1030,6 +1046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TRAINING FACILITY</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T195950Z" creationid="GMH" creationdate="20190716T195950Z">
+        <seg>تسهیلات تریننگ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tap &lt;t0/&gt;&gt;Add Item &lt;t1/&gt;and repeat steps 3-9 in &lt;t2/&gt;Activity 1</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T184149Z" creationid="GMH" creationdate="20190716T184149Z">
@@ -1166,6 +1190,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;temperature was comfortable.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T200023Z" creationid="GMH" creationdate="20190716T200023Z">
+        <seg>درجه حرارت به اندازه کافی راحت بخش بود</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;training facility had adequate lighting.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T200008Z" creationid="GMH" creationdate="20190716T200008Z">
+        <seg>محل تریننگ به اندازه کافی روشن بود</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The App will:</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175200Z" creationid="GMH" creationdate="20190716T175200Z">
@@ -1178,6 +1218,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174232Z" creationid="GMH" creationdate="20190716T174232Z">
         <seg>اپلیکیشن موبایل گلدوزی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The breaks were spaced at the right times during the &lt;t0/&gt;training</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T195943Z" creationid="GMH" creationdate="20190716T195943Z">
+        <seg>در جریان تریننگ، وقفه ها به شکل درست منظم گردیده بود</seg>
       </tuv>
     </tu>
     <tu>
