@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t9/&gt;They&lt;t10/&gt; &lt;t11/&gt;would&lt;t12/&gt; like &lt;t13/&gt;to&lt;t14/&gt; &lt;t15/&gt;buy&lt;t16/&gt; &lt;t17/&gt;two&lt;t18/&gt; &lt;t19/&gt;scarves&lt;t20/&gt; &lt;t21/&gt;from&lt;t22/&gt; &lt;t23/&gt;you&lt;t24/&gt;.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T192517Z" creationid="GMH" creationdate="20190716T192517Z">
+        <seg>آنها میخواهند دو چادر را از شما خریداری نمایند</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AVERAGE</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190431Z" creationid="GMH" creationdate="20190716T190431Z">
@@ -446,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please log into the &lt;t0/&gt;Goldozi&lt;t1/&gt; App.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T192148Z" creationid="GMH" creationdate="20190716T192148Z">
+        <seg>لطفاً به اپلیکیشن گلدوزی داخل شوید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Practical Exam</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T192116Z" creationid="GMH" creationdate="20190716T192116Z">
@@ -530,6 +546,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T192130Z" creationid="GMH" creationdate="20190716T192130Z">
         <seg>بخش 1: آماده ساختن اپلیکیشن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section 2: Managing sales to customers</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T192317Z" creationid="GMH" creationdate="20190716T192317Z">
+        <seg>بخش 2: مدیریت فروشات به مشتریان</seg>
       </tuv>
     </tu>
     <tu>
@@ -934,10 +958,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What are two things to avoid to keep your password safe?</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T192252Z" creationid="GMH" creationdate="20190716T192252Z">
+        <seg>دو مورد که باید از آن جلوگیری گردد تا رمز عبور یا پاسورد تان مصؤن باشد، کدامها اند؟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wishing You Success</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190258Z" creationid="GMH" creationdate="20190716T190258Z">
         <seg>به امید مؤفقیت شما</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your&lt;t0/&gt; &lt;t1/&gt;examiner&lt;t2/&gt; &lt;t3/&gt;is&lt;t4/&gt; &lt;t5/&gt;now&lt;t6/&gt; a &lt;t7/&gt;customer&lt;t8/&gt;.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T192407Z" creationid="GMH" creationdate="20190716T192407Z">
+        <seg>حالا گیرنده امتحان شما یک مشتری است</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
