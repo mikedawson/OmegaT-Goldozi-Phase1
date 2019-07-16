@@ -70,6 +70,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Learn how to mark an item as delivered.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T180628Z" creationid="GMH" creationdate="20190716T180628Z">
+        <seg>یاد بگیرید که چگونه یک جنس را منحیث جنس تسلیم شده نشانی یا علامت گذاری کنید.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn how to record a payment or a partial payment.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T180745Z" creationid="GMH" creationdate="20190716T180745Z">
+        <seg>یاد بگیرید که چگونه پول پرداخت شده و یا قسمتی از پول پرداخت شده را ثبت کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn how to record a sale.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T180542Z" creationid="GMH" creationdate="20190716T180542Z">
+        <seg>چگونگی ثبت یک فروش را یاد بگیرید.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lesson 1: App Installation and Onboarding</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175633Z" creationid="GMH" creationdate="20190716T175633Z">
@@ -90,6 +114,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T180515Z" creationid="GMH" creationdate="20190716T180515Z">
         <seg>درس دوم: فعالیتها از 1 الی 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lesson 2: Activities 4-6</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T180808Z" creationid="GMH" creationdate="20190716T180808Z">
+        <seg>درس دوم: فعالیتها از 4 الی 6</seg>
       </tuv>
     </tu>
     <tu>
