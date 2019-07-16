@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter &lt;t0/&gt;their&lt;t1/&gt; &lt;t2/&gt;payment&lt;t3/&gt; &lt;t4/&gt;of&lt;t5/&gt; &lt;t6/&gt;the&lt;t7/&gt; &lt;t8/&gt;remaining&lt;t9/&gt; &lt;t10/&gt;balance&lt;t11/&gt;.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T193651Z" creationid="GMH" creationdate="20190716T193651Z">
+        <seg>پرداخت پول باقیمانده آنها را داخل نمایید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Facilitator Notes</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T191833Z" creationid="GMH" creationdate="20190716T191833Z">
@@ -998,10 +1006,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Task 5:</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T193530Z" creationid="GMH" creationdate="20190716T193530Z">
+        <seg>فعالیت پنجم: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Technology to Improve Business</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174303Z" creationid="GMH" creationdate="20190716T174303Z">
         <seg>تکنالوژی برای پیشرفت تجارت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tell &lt;t0/&gt;your&lt;t1/&gt; &lt;t2/&gt;customer&lt;t3/&gt; &lt;t4/&gt;how&lt;t5/&gt; &lt;t6/&gt;much&lt;t7/&gt; &lt;t8/&gt;they&lt;t9/&gt; &lt;t10/&gt;owe&lt;t11/&gt; &lt;t12/&gt;you&lt;t13/&gt;.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T193557Z" creationid="GMH" creationdate="20190716T193557Z">
+        <seg>به مشتری خود بگویید که چه مقدار پول از شما قرضدار است</seg>
       </tuv>
     </tu>
     <tu>
@@ -1074,6 +1098,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190258Z" creationid="GMH" creationdate="20190716T190258Z">
         <seg>به امید مؤفقیت شما</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You&lt;t0/&gt; &lt;t1/&gt;have&lt;t2/&gt; &lt;t3/&gt;received&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;second&lt;t8/&gt; &lt;t9/&gt;scarf&lt;t10/&gt; &lt;t11/&gt;and&lt;t12/&gt; &lt;t13/&gt;your&lt;t14/&gt; &lt;t15/&gt;customer&lt;t16/&gt; &lt;t17/&gt;would&lt;t18/&gt; like &lt;t19/&gt;to&lt;t20/&gt; &lt;t21/&gt;pay&lt;t22/&gt; &lt;t23/&gt;the&lt;t24/&gt; &lt;t25/&gt;remaining&lt;t26/&gt; &lt;t27/&gt;balance&lt;t28/&gt;.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T193521Z" creationid="GMH" creationdate="20190716T193521Z">
+        <seg>شما چادر دومی را دریافت کردید و مشتری شما میخواهد که مقدار باقیمانده را پرداخت نماید</seg>
       </tuv>
     </tu>
     <tu>
