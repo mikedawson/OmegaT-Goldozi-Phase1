@@ -70,6 +70,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Learn how to add another item to a sale.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T180838Z" creationid="GMH" creationdate="20190716T180838Z">
+        <seg>یاد بگیرید که چگونه یک جنس دیگر را در فروش اضافه کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn how to add order notes.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T180911Z" creationid="GMH" creationdate="20190716T180911Z">
+        <seg>یاد بگیرید که چگونه یادداشتهای فرمایش را اضافه کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learn how to mark an item as delivered.</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T180628Z" creationid="GMH" creationdate="20190716T180628Z">
@@ -90,6 +106,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T180542Z" creationid="GMH" creationdate="20190716T180542Z">
         <seg>چگونگی ثبت یک فروش را یاد بگیرید.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn&lt;t0/&gt; &lt;t1/&gt;how&lt;t2/&gt; &lt;t3/&gt;to&lt;t4/&gt; &lt;t5/&gt;record&lt;t6/&gt; a &lt;t7/&gt;pre&lt;t8/&gt;-order.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T181037Z" creationid="GMH" creationdate="20190716T181037Z">
+        <seg>یاد بگیرید&lt;t0/&gt; &lt;t1/&gt;چگونه&lt;t2/&gt; &lt;t3/&gt;که&lt;t4/&gt; &lt;t5/&gt;ثبت کنید&lt;t6/&gt; یک &lt;t7/&gt;قبلی&lt;t8/&gt;فرمایش.</seg>
       </tuv>
     </tu>
     <tu>
