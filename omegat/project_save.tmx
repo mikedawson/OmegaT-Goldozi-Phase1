@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Activity 8: Find and edit a pre-order that you have recorded</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T185004Z" creationid="GMH" creationdate="20190716T185004Z">
+        <seg>فعالیت 8: پیدا نمودن و تصحیح یک فرمایش قبلی که شما آنرا ثبت نموده اید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All orders are tracked in the Goldozi &lt;t0/&gt;A&lt;t1/&gt;pp</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182337Z" creationid="GMH" creationdate="20190716T180404Z">
@@ -382,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 1 of 3: To find a pre-order, tap &lt;t0/&gt;&gt;Pre-orders</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T185032Z" creationid="GMH" creationdate="20190716T185032Z">
+        <seg>گام 1/3: برای دریافت یک فرمایش قبلی، روی فرمایشات قبلی لمس کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 1 of 3: To find a sale, tap &lt;t0/&gt;&gt;All sales</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T184640Z" creationid="GMH" creationdate="20190716T184640Z">
@@ -410,6 +426,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T183727Z" creationid="GMH" creationdate="20190716T183727Z">
         <seg>گام 2/2: از مشتری خود بخواهید که روی اسکرین امضأ نموده و روی قبول لمس کند تا امضأ آنها ثبت گردد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 2 of 3: To filter pre-orders, tap &lt;t0/&gt;&gt;Sort by</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T185118Z" creationid="GMH" creationdate="20190716T185118Z">
+        <seg>گام 2/3: برای فلتر نمودن فرمایشات قبلی، لوی ترتیب لمس کنید</seg>
       </tuv>
     </tu>
     <tu>
