@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>AVERAGE</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190431Z" creationid="GMH" creationdate="20190716T190431Z">
+        <seg>اوسط </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Activity 1: Record a sale</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182757Z" creationid="GMH" creationdate="20190716T182757Z">
@@ -154,6 +162,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190001Z" creationid="GMH" creationdate="20190716T190001Z">
         <seg>فعالیت کلیدی برای متشبثین پیشتاز:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LE name</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190453Z" creationid="GMH" creationdate="20190716T190453Z">
+        <seg>نام متشبث پشتاز</seg>
       </tuv>
     </tu>
     <tu>
@@ -342,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Module 9: The Goldozi App</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190444Z" creationid="GMH" creationdate="20190716T190444Z">
+        <seg>مادیول 9: اپلیکیشن گلدوزی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>O&lt;t0/&gt;rganizing                Managing                 Tracking                  Sales</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175131Z" creationid="GMH" creationdate="20190716T175131Z">
@@ -402,6 +426,22 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190031Z" creationid="GMH" creationdate="20190716T190031Z">
         <seg>تقویت موارد آموخته شده در جریان مرحله اول تریننگ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECTION 1</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190503Z" creationid="GMH" creationdate="20190716T190503Z">
+        <seg>بخش 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECTION 2</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190512Z" creationid="GMH" creationdate="20190716T190512Z">
+        <seg>بخش 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 2: Select the lesson that you would like to revise</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190347Z" creationid="GMH" creationdate="20190716T190347Z">
+        <seg>گام 2: درس را که میخواهید تکرار کنید، انتخاب نمایید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 3 of 3: To edit a pre-order, tap it</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T185144Z" creationid="GMH" creationdate="20190716T185144Z">
@@ -570,6 +618,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T183117Z" creationid="GMH" creationdate="20190716T183117Z">
         <seg>گام 3/9: روی موقعیت لمس کنید تا موقعیت درست را انتخاب نمایید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 3: Complete the lesson to prepare for your practical exam – good luck!</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190422Z" creationid="GMH" creationdate="20190716T190422Z">
+        <seg>گام 3: درس را تکمیل نمایید تا برای امتحان عملی تان آماده شوید - چانس خوب</seg>
       </tuv>
     </tu>
     <tu>
@@ -666,6 +722,22 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T183509Z" creationid="GMH" creationdate="20190716T183509Z">
         <seg>گام 9/9: روی ثبت لمس کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T1: The LE can demonstrate how to record a sale.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190628Z" creationid="GMH" creationdate="20190716T190628Z">
+        <seg>متشبث پشتاز میتواند نمایش دهد که چگونه یک فروش را ثبت کرد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T1: The LE can log into the Goldozi app.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190548Z" creationid="GMH" creationdate="20190716T190548Z">
+        <seg>T1: متشبث پشتاز میتواند به اپلیکیشن گلدوزی داخل شود.</seg>
       </tuv>
     </tu>
     <tu>
