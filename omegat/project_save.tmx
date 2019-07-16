@@ -86,6 +86,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Learn how to find and edit a pre-order that you have recorded.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182638Z" creationid="GMH" creationdate="20190716T182638Z">
+        <seg>یاد بگیرید که چگونه یک فرمایش قبلی ثبت شده را پیدا نموده و آنرا تصحیح نمایید.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn how to find and edit a sale that you have recorded.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182556Z" creationid="GMH" creationdate="20190716T182556Z">
+        <seg>یاد بگیرید که چگونه یک فروش ثبت شده  را پیدا نموده و آنرا تصحیح نماید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learn how to mark an item as delivered.</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T180628Z" creationid="GMH" creationdate="20190716T180628Z">
@@ -112,8 +128,8 @@
       <tuv lang="EN-US">
         <seg>Learn&lt;t0/&gt; &lt;t1/&gt;how&lt;t2/&gt; &lt;t3/&gt;to&lt;t4/&gt; &lt;t5/&gt;record&lt;t6/&gt; a &lt;t7/&gt;pre&lt;t8/&gt;-order.</seg>
       </tuv>
-      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T181037Z" creationid="GMH" creationdate="20190716T181037Z">
-        <seg>یاد بگیرید&lt;t0/&gt; &lt;t1/&gt;چگونه&lt;t2/&gt; &lt;t3/&gt;که&lt;t4/&gt; &lt;t5/&gt;ثبت کنید&lt;t6/&gt; یک &lt;t7/&gt;قبلی&lt;t8/&gt;فرمایش.</seg>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182429Z" creationid="GMH" creationdate="20190716T181037Z">
+        <seg>یاد بگیرید که چگونه یک فرمایش قبلی را ثبت کنید</seg>
       </tuv>
     </tu>
     <tu>
@@ -146,6 +162,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T180808Z" creationid="GMH" creationdate="20190716T180808Z">
         <seg>درس دوم: فعالیتها از 4 الی 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lesson 2: Activities 7-9</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182446Z" creationid="GMH" creationdate="20190716T182446Z">
+        <seg>درس دوم: فعالیتها از 7 الی 9</seg>
       </tuv>
     </tu>
     <tu>
