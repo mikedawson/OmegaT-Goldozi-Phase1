@@ -8,16 +8,16 @@
       <tuv lang="EN-US">
         <seg>All orders are tracked in the Goldozi &lt;t0/&gt;A&lt;t1/&gt;pp</seg>
       </tuv>
-      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T180404Z" creationid="GMH" creationdate="20190716T180404Z">
-        <seg>تمام فرمایشات پیگیری میشود در گلدوزی &lt;t0/&gt;ا &lt;t1/&gt;اپلیکیشن</seg>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182337Z" creationid="GMH" creationdate="20190716T180404Z">
+        <seg>تمام فرمایشات در اپلیکیشن گلدوزی پیگیری میشود </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>How the Goldozi &lt;t0/&gt;A&lt;t1/&gt;pp helps:</seg>
       </tuv>
-      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T180327Z" creationid="GMH" creationdate="20190716T180327Z">
-        <seg>اپلیکیشن گلدوزی چگونه &lt;t0/&gt; ا &lt;t1/&gt;کمک میکند:</seg>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182312Z" creationid="GMH" creationdate="20190716T180327Z">
+        <seg>اپلیکیشن گلدوزی چگونه کمک میکند:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40,8 +40,8 @@
       <tuv lang="EN-US">
         <seg>Installing the &lt;t0/&gt;Goldozi&lt;t1/&gt; &lt;t2/&gt;A&lt;t3/&gt;pp from the Google Play Store</seg>
       </tuv>
-      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175833Z" creationid="GMH" creationdate="20190716T175833Z">
-        <seg>نصب کردن &lt;t0/&gt;گلدوزی&lt;t1/&gt; &lt;t2/&gt;ا &lt;t3/&gt;اپلیکیشن از گوگل پلی ستور</seg>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182223Z" creationid="GMH" creationdate="20190716T175833Z">
+        <seg>نصب کردن اپلیکیشن از گوگل پلی ستور</seg>
       </tuv>
     </tu>
     <tu>
@@ -168,8 +168,8 @@
       <tuv lang="EN-US">
         <seg>Logging into the &lt;t0/&gt;Goldozi&lt;t1/&gt; App and keeping your password secure</seg>
       </tuv>
-      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175951Z" creationid="GMH" creationdate="20190716T175951Z">
-        <seg>داخل شدن &lt;t0/&gt;گلدوزی&lt;t1/&gt; اپلیکیشن و مصؤن نگهداشتن رمز عبور یا پاسورد</seg>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182250Z" creationid="GMH" creationdate="20190716T175951Z">
+        <seg>داخل شدن به اپلیکیشن گلدوزی و مصؤن نگهداشتن رمز عبور یا پاسورد</seg>
       </tuv>
     </tu>
     <tu>
@@ -288,8 +288,8 @@
       <tuv lang="EN-US">
         <seg>The purpose of the &lt;t0/&gt;Goldozi&lt;t1/&gt; App is to help you manage and increase your sales</seg>
       </tuv>
-      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175045Z" creationid="GMH" creationdate="20190716T175045Z">
-        <seg>هدف &lt;t0/&gt;گلدوزی&lt;t1/&gt; اپلیکیشن این است تا با شما کمک کند که فروشات خود را مدیریت کنید و بیشتر بسازید</seg>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182137Z" creationid="GMH" creationdate="20190716T175045Z">
+        <seg>هدف اپلیکیشن گلدوزی این است تا با شما کمک کند که فروشات خود را مدیریت کنید و بیشتر بسازید</seg>
       </tuv>
     </tu>
     <tu>
