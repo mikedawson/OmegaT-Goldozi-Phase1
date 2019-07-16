@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Activity: Prepare for your practical exam</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190215Z" creationid="GMH" creationdate="20190716T190215Z">
+        <seg>فعالیت: برای امتحان عملی خود آماده شوید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All orders are tracked in the Goldozi &lt;t0/&gt;A&lt;t1/&gt;pp</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182337Z" creationid="GMH" creationdate="20190716T180404Z">
@@ -98,6 +106,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182312Z" creationid="GMH" creationdate="20190716T180327Z">
         <seg>اپلیکیشن گلدوزی چگونه کمک میکند:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Your Professional Endeavors</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190313Z" creationid="GMH" creationdate="20190716T190313Z">
+        <seg>در تلاشهای مسلکی تان</seg>
       </tuv>
     </tu>
     <tu>
@@ -138,6 +154,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190001Z" creationid="GMH" creationdate="20190716T190001Z">
         <seg>فعالیت کلیدی برای متشبثین پیشتاز:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lead entrepreneurs can refresh their knowledge/skills &lt;t0/&gt;by referring to the App</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190158Z" creationid="GMH" creationdate="20190716T190158Z">
+        <seg>متشبثین پیشتاز با مراجعه به اپلیکیشن، میتوانند دانش/مهارتهای آموخته شده خود را تکرار نمایند</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reinforcing what was learned during the  &lt;t0/&gt;Phase I t&lt;t1/&gt;raining</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190031Z" creationid="GMH" creationdate="20190716T190031Z">
+        <seg>تقویت موارد آموخته شده در جریان مرحله اول تریننگ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save time and money</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175249Z" creationid="GMH" creationdate="20190716T175249Z">
@@ -442,6 +474,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182849Z" creationid="GMH" creationdate="20190716T182849Z">
         <seg>گام 1/9: به اپلیکیشن گلدوزی داخل شوید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 1: Tap &lt;t0/&gt;&gt;Courses</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190235Z" creationid="GMH" creationdate="20190716T190235Z">
+        <seg>گام 1: روی کورسها لمس کنید</seg>
       </tuv>
     </tu>
     <tu>
@@ -682,6 +722,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182111Z" creationid="GMH" creationdate="20190716T174354Z">
         <seg>استفاده از اپلیکیشن گلدوزی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wishing You Success</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190258Z" creationid="GMH" creationdate="20190716T190258Z">
+        <seg>به امید مؤفقیت شما</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
