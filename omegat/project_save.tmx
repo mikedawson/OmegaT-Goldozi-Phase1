@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Activity 9: View due payments and record partial or full payments</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T185255Z" creationid="GMH" creationdate="20190716T185255Z">
+        <seg>فعالیت9: مشاهده نمودن پرداختهای موعود و ثبت نمودن پولهای کاملاً پرداخت شده یا قسماً پرداخت شده </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All orders are tracked in the Goldozi &lt;t0/&gt;A&lt;t1/&gt;pp</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182337Z" creationid="GMH" creationdate="20190716T180404Z">
@@ -414,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 1 of 7: To view payments that are due, tap &lt;t0/&gt;&gt;Payments due</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T185338Z" creationid="GMH" creationdate="20190716T185338Z">
+        <seg>گام 1/7: برای مشاهده نمودن پرداختهای موعود، روی پولهای قابل پرداخت لمس کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 1 of 9: Log into the &lt;t0/&gt;Goldozi&lt;t1/&gt; app</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182849Z" creationid="GMH" creationdate="20190716T182849Z">
@@ -454,10 +470,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 2 of 7: To filter payments that are due, tap &lt;t0/&gt;&gt;Sort by</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T185427Z" creationid="GMH" creationdate="20190716T185427Z">
+        <seg>گام 2/7: برای فلتر نمودن پرداختهای که باقیمانده، روی ترتیب لمس کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 2 of 9: T&lt;t0/&gt;ap&lt;t1/&gt; &lt;t2/&gt;&gt;&lt;t3/&gt;Record&lt;t4/&gt; &lt;t5/&gt;Sale</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182949Z" creationid="GMH" creationdate="20190716T182949Z">
         <seg>گام 2/9: روی ثبت فروش کلیک کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 3 of 3: To edit a pre-order, tap it</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T185144Z" creationid="GMH" creationdate="20190716T185144Z">
+        <seg>گام 3/3: برای تصحیح یک فرمایش قبلی، روی آن لمس کنید</seg>
       </tuv>
     </tu>
     <tu>
