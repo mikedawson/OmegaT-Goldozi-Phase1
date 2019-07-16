@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Record&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;sale&lt;t4/&gt; &lt;t5/&gt;as&lt;t6/&gt; &lt;t7/&gt;delivered&lt;t8/&gt;.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T193714Z" creationid="GMH" creationdate="20190716T193714Z">
+        <seg>این فروش را منحیث فروش تحویل داده شده ثبت نمایید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Record&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;sale&lt;t4/&gt;.</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T192646Z" creationid="GMH" creationdate="20190716T192646Z">
@@ -622,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Section 3: &lt;t0/&gt;Learning and reinforcing skills</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T193736Z" creationid="GMH" creationdate="20190716T193736Z">
+        <seg>بخش 3: آموختن و تقویت مهارتها</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Setting up your smartphone</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175655Z" creationid="GMH" creationdate="20190716T175655Z">
@@ -634,6 +650,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174755Z" creationid="GMH" creationdate="20190716T174755Z">
         <seg>نشان دادن محصولات به مشتریان (مرحله دوم)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show your examiner how you downloaded a copy of this exam to revise for today.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T193910Z" creationid="GMH" creationdate="20190716T193910Z">
+        <seg>به امتحان گیرنده خود نشان دهید که چگونه یک نقل این امتحان را دانلوند نمودید تا امروز آنرا مرور نمایید </seg>
       </tuv>
     </tu>
     <tu>
@@ -1106,6 +1130,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T193521Z" creationid="GMH" creationdate="20190716T193521Z">
         <seg>شما چادر دومی را دریافت کردید و مشتری شما میخواهد که مقدار باقیمانده را پرداخت نماید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your practical exam is complete – well done!</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T193928Z" creationid="GMH" creationdate="20190716T193928Z">
+        <seg>امتحان عملی شما تکمیل گردید - عالی</seg>
       </tuv>
     </tu>
     <tu>
