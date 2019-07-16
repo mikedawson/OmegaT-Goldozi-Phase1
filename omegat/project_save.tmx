@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Key activity for lead entrepreneurs:</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190001Z" creationid="GMH" creationdate="20190716T190001Z">
+        <seg>فعالیت کلیدی برای متشبثین پیشتاز:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lead entrepreneurs have a list of accounts</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T180454Z" creationid="GMH" creationdate="20190716T180454Z">
@@ -566,10 +574,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 6 of 7: Tap to record the date of the payment</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T185923Z" creationid="GMH" creationdate="20190716T185923Z">
+        <seg>گام 6/7: لمس کنید تا تاریخ پرداخت ثبت گردد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 6 of 9: Tap to select an item</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T183312Z" creationid="GMH" creationdate="20190716T183312Z">
         <seg>گام 6/9: لمس کنید تا یک جنس را انتخاب نمایید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 7 of 7: Tap &lt;t0/&gt;&gt;SAVE</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T185941Z" creationid="GMH" creationdate="20190716T185941Z">
+        <seg>گام 7/7: روی ثبت لمس کنید</seg>
       </tuv>
     </tu>
     <tu>
