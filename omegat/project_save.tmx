@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SECTION 3</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190632Z" creationid="GMH" creationdate="20190716T190632Z">
+        <seg>بخش 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save time and money</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175249Z" creationid="GMH" creationdate="20190716T175249Z">
@@ -738,6 +746,22 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190548Z" creationid="GMH" creationdate="20190716T190548Z">
         <seg>T1: متشبث پشتاز میتواند به اپلیکیشن گلدوزی داخل شود.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T2: The LE can demonstrate a) how to record and manage a pre-order, and b) how to add an item to an existing order.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190749Z" creationid="GMH" creationdate="20190716T190749Z">
+        <seg>متشبث پشتاز میتواند نمایش دهد الف) چگونه میتوان یک فرمایش قبلی را ثبت و مدیریت کرد، و ب) چگونه میتوان یک جنس را در فرمایش موجوده علاوه ساخت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T5: The LE can demonstrate a) where to locate outstanding payments, b) how to edit an existing sale or pre-order, and c) how to record an order as delivered.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190937Z" creationid="GMH" creationdate="20190716T190937Z">
+        <seg>متشبث پشتاز میتواند نمایش دهد الف) در کجا میتواند پرداختهای باقیمانده را پیدا نماید، ب) چگونه میتوان یک فروش موجوده و یا فرمایش قبلی را تصحیح نمود</seg>
       </tuv>
     </tu>
     <tu>
