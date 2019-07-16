@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>All orders are tracked in the Goldozi &lt;t0/&gt;A&lt;t1/&gt;pp</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T180404Z" creationid="GMH" creationdate="20190716T180404Z">
+        <seg>تمام فرمایشات پیگیری میشود در گلدوزی &lt;t0/&gt;ا &lt;t1/&gt;اپلیکیشن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How the Goldozi &lt;t0/&gt;A&lt;t1/&gt;pp helps:</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T180327Z" creationid="GMH" creationdate="20190716T180327Z">
+        <seg>اپلیکیشن گلدوزی چگونه &lt;t0/&gt; ا &lt;t1/&gt;کمک میکند:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Increase efficiency and accuracy</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175223Z" creationid="GMH" creationdate="20190716T175223Z">
@@ -38,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lead entrepreneurs have a list of accounts</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T180454Z" creationid="GMH" creationdate="20190716T180454Z">
+        <seg>متشبثین پیشتاز یک لست حسابها را با خود دارند</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learn and reinforce skills (Phase 1)</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174732Z" creationid="GMH" creationdate="20190716T174732Z">
@@ -58,6 +82,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175540Z" creationid="GMH" creationdate="20190716T175540Z">
         <seg>درس اول: نصب و آماده ساختن اپلیکیشن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lesson 2: Activities 1-3</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T180515Z" creationid="GMH" creationdate="20190716T180515Z">
+        <seg>درس دوم: فعالیتها از 1 الی 3</seg>
       </tuv>
     </tu>
     <tu>
