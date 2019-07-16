@@ -14,10 +14,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installation and Onboarding</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175518Z" creationid="GMH" creationdate="20190716T175518Z">
+        <seg>نصب و آماده ساختن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learn and reinforce skills (Phase 1)</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174732Z" creationid="GMH" creationdate="20190716T174732Z">
         <seg>آموختن و تقویت مهارتها (مرحله اول)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lesson 1: App installation and onboarding</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175540Z" creationid="GMH" creationdate="20190716T175540Z">
+        <seg>درس اول: نصب و آماده ساختن اپلیکیشن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lesson 2: Managing sales to customers</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175558Z" creationid="GMH" creationdate="20190716T175558Z">
+        <seg>درس دوم: مدیریت فروشات به مشتریان</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,10 +78,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Provide a refresher library of learning modules</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175432Z" creationid="GMH" creationdate="20190716T175432Z">
+        <seg>یک مرکز منابع برای مادیولهای آموزشی خواهد بود</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Purpose of Goldozi App</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174857Z" creationid="GMH" creationdate="20190716T174857Z">
         <seg>هدف اپلیکیشن گلدوزی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reinforce knowledge learned from the GCP</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175350Z" creationid="GMH" creationdate="20190716T175350Z">
+        <seg>دانش آموخته شده از GCP را تقویت خواهد بخشید</seg>
       </tuv>
     </tu>
     <tu>
