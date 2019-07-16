@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>Learn and reinforce skills (Phase 1)</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174732Z" creationid="GMH" creationdate="20190716T174732Z">
+        <seg>آموختن و تقویت مهارتها (مرحله اول)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manage an inventory (Phase 2)</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174833Z" creationid="GMH" creationdate="20190716T174833Z">
+        <seg>مدیریت موجودی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manage sales to customers (Phase 1)</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174659Z" creationid="GMH" creationdate="20190716T174659Z">
@@ -22,6 +38,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Purpose of Goldozi App</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174857Z" creationid="GMH" creationdate="20190716T174857Z">
+        <seg>هدف اپلیکیشن گلدوزی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show products to customers (Phase 2)</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174755Z" creationid="GMH" creationdate="20190716T174755Z">
+        <seg>نشان دادن محصولات به مشتریان (مرحله دوم)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Technology to Improve Business</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174303Z" creationid="GMH" creationdate="20190716T174303Z">
@@ -34,6 +66,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174232Z" creationid="GMH" creationdate="20190716T174232Z">
         <seg>اپلیکیشن موبایل گلدوزی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The purpose of the &lt;t0/&gt;Goldozi&lt;t1/&gt; App is to help you manage and increase your sales</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175045Z" creationid="GMH" creationdate="20190716T175045Z">
+        <seg>هدف &lt;t0/&gt;گلدوزی&lt;t1/&gt; اپلیکیشن این است تا با شما کمک کند که فروشات خود را مدیریت کنید و بیشتر بسازید</seg>
       </tuv>
     </tu>
     <tu>
