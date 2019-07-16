@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 3 of 7: To record a payment or partial payment for an item, tap it</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T185528Z" creationid="GMH" creationdate="20190716T185528Z">
+        <seg>گام 3/7: برای ثبت نمودن پرداخت یا پرداخت قسمی یک جنس، روی آن کلیک کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 3 of 9: Tap &lt;t0/&gt;&gt;Location &lt;t1/&gt;to select the correct location</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T183117Z" creationid="GMH" creationdate="20190716T183117Z">
@@ -526,10 +534,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 4 of 7: Tap &lt;t0/&gt;&gt;Add payment</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T185555Z" creationid="GMH" creationdate="20190716T185555Z">
+        <seg>گام 4/7: روی علاوه ساختن پرداخت لمس کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 4 of 9: Tap &lt;t0/&gt;&gt;Add Item</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T183032Z" creationid="GMH" creationdate="20190716T183032Z">
         <seg>گام 4/9: روی علاوه ساختن جنس لمس کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 5 of 7: Tap &lt;t0/&gt;&gt;P&lt;t1/&gt;a&lt;t2/&gt;yment&lt;t3/&gt; amount &lt;t4/&gt;and record the amount that has been paid</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T185847Z" creationid="GMH" creationdate="20190716T185847Z">
+        <seg>گلام 5/7: روی مقدار پرداخت لمس کنید و مقدار پرداخت شده را ثبت کنید</seg>
       </tuv>
     </tu>
     <tu>
