@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t10/&gt;You&lt;t11/&gt; &lt;t12/&gt;have&lt;t13/&gt; &lt;t14/&gt;it&lt;t15/&gt; in stock.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T192626Z" creationid="GMH" creationdate="20190716T192626Z">
+        <seg>شما آنرا در ذخیره گاه خود دارید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t9/&gt;They&lt;t10/&gt; &lt;t11/&gt;would&lt;t12/&gt; like &lt;t13/&gt;to&lt;t14/&gt; &lt;t15/&gt;buy&lt;t16/&gt; &lt;t17/&gt;two&lt;t18/&gt; &lt;t19/&gt;scarves&lt;t20/&gt; &lt;t21/&gt;from&lt;t22/&gt; &lt;t23/&gt;you&lt;t24/&gt;.</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T192517Z" creationid="GMH" creationdate="20190716T192517Z">
@@ -486,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Record&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;sale&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T192646Z" creationid="GMH" creationdate="20190716T192646Z">
+        <seg>این فروش را ثبت نمایید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reinforce knowledge learned from the GCP</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175350Z" creationid="GMH" creationdate="20190716T175350Z">
@@ -830,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stop&lt;t0/&gt; &lt;t1/&gt;when&lt;t2/&gt; &lt;t3/&gt;you&lt;t4/&gt; &lt;t5/&gt;reach&lt;t6/&gt; &lt;t7/&gt;this&lt;t8/&gt; &lt;t9/&gt;screen&lt;t10/&gt;.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T192719Z" creationid="GMH" creationdate="20190716T192719Z">
+        <seg>وقتی به این اسکرین رسیدید، متوقف شوید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>T1: The LE can demonstrate how to navigate to the courses section of the app and  download learning content.</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T191301Z" creationid="GMH" creationdate="20190716T191301Z">
@@ -902,10 +926,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Task 1:</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T192631Z" creationid="GMH" creationdate="20190716T192631Z">
+        <seg>فعالیت اول: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Technology to Improve Business</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174303Z" creationid="GMH" creationdate="20190716T174303Z">
         <seg>تکنالوژی برای پیشرفت تجارت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;first&lt;t1/&gt; &lt;t2/&gt;scarf&lt;t3/&gt; &lt;t4/&gt;is&lt;t5/&gt; &lt;t6/&gt;worth&lt;t7/&gt; 200 &lt;t8/&gt;Afs&lt;t9/&gt;.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T192557Z" creationid="GMH" creationdate="20190716T192557Z">
+        <seg>ارزش چادر اولی 200 افغانی است</seg>
       </tuv>
     </tu>
     <tu>
@@ -970,6 +1010,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T190258Z" creationid="GMH" creationdate="20190716T190258Z">
         <seg>به امید مؤفقیت شما</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your&lt;t0/&gt; &lt;t1/&gt;customer&lt;t2/&gt; &lt;t3/&gt;would&lt;t4/&gt; like &lt;t5/&gt;to&lt;t6/&gt; &lt;t7/&gt;add&lt;t8/&gt; &lt;t9/&gt;one&lt;t10/&gt; &lt;t11/&gt;more&lt;t12/&gt; &lt;t13/&gt;scarf&lt;t14/&gt;  - also &lt;t15/&gt;worth&lt;t16/&gt; 200 &lt;t17/&gt;Afs&lt;t18/&gt;  - &lt;t19/&gt;to&lt;t20/&gt; &lt;t21/&gt;their&lt;t22/&gt; &lt;t23/&gt;order&lt;t24/&gt;.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T192829Z" creationid="GMH" creationdate="20190716T192829Z">
+        <seg>مشتری شما میخواهد یک چادر دیگر را نیز در فرمایش خود اضافه کند - که ارزش آن نیز 200 افغانی است - </seg>
       </tuv>
     </tu>
     <tu>
