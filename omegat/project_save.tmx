@@ -22,10 +22,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installing the &lt;t0/&gt;Goldozi&lt;t1/&gt; &lt;t2/&gt;A&lt;t3/&gt;pp from the Google Play Store</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175833Z" creationid="GMH" creationdate="20190716T175833Z">
+        <seg>نصب کردن &lt;t0/&gt;گلدوزی&lt;t1/&gt; &lt;t2/&gt;ا &lt;t3/&gt;اپلیکیشن از گوگل پلی ستور</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learn and reinforce skills (Phase 1)</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T174732Z" creationid="GMH" creationdate="20190716T174732Z">
         <seg>آموختن و تقویت مهارتها (مرحله اول)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lesson 1: App Installation and Onboarding</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175633Z" creationid="GMH" creationdate="20190716T175633Z">
+        <seg>درس اول: نصب و آماده ساختن اپلیکیشن</seg>
       </tuv>
     </tu>
     <tu>
@@ -42,6 +58,22 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175558Z" creationid="GMH" creationdate="20190716T175558Z">
         <seg>درس دوم: مدیریت فروشات به مشتریان</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lesson 3: Learning and reinforcing skills</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175615Z" creationid="GMH" creationdate="20190716T175615Z">
+        <seg>درس سوم: آموختن و تقیت مهارتها</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Logging into the &lt;t0/&gt;Goldozi&lt;t1/&gt; App and keeping your password secure</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175951Z" creationid="GMH" creationdate="20190716T175951Z">
+        <seg>داخل شدن &lt;t0/&gt;گلدوزی&lt;t1/&gt; اپلیکیشن و مصؤن نگهداشتن رمز عبور یا پاسورد</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,6 +138,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175249Z" creationid="GMH" creationdate="20190716T175249Z">
         <seg>از ضایع شدن وقت و پول جلوگیری خواهد نمود</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting up your smartphone</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T175655Z" creationid="GMH" creationdate="20190716T175655Z">
+        <seg>تنظیم نمودن تلیفون هوشمند</seg>
       </tuv>
     </tu>
     <tu>
