@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FACILITATOR KNOWLEDGE AND EFFECTIVENESS</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T195147Z" creationid="GMH" creationdate="20190716T195147Z">
+        <seg>دانش و مؤثریت ترینر</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Facilitator Notes</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T191833Z" creationid="GMH" creationdate="20190716T191833Z">
@@ -186,6 +194,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T182312Z" creationid="GMH" creationdate="20190716T180327Z">
         <seg>اپلیکیشن گلدوزی چگونه کمک میکند:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I was given an opportunity to use the &lt;t0/&gt;Goldozi&lt;t1/&gt; app each lesson.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T195102Z" creationid="GMH" creationdate="20190716T195102Z">
+        <seg>برای من فرصت داده شد تا در هر درس از اپلیکیشن گلدوزی استفاده نمایم</seg>
       </tuv>
     </tu>
     <tu>
@@ -1086,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;facilitator demonstrated a good understanding of the topics covered and effectively delivered the training.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T195241Z" creationid="GMH" creationdate="20190716T195241Z">
+        <seg>ترینر روی موضوعات حاکم بود و تریننگ را به شکل مؤثر ارائیه نمود</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;t0/&gt;first&lt;t1/&gt; &lt;t2/&gt;scarf&lt;t3/&gt; &lt;t4/&gt;is&lt;t5/&gt; &lt;t6/&gt;worth&lt;t7/&gt; 200 &lt;t8/&gt;Afs&lt;t9/&gt;.</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T192557Z" creationid="GMH" creationdate="20190716T192557Z">
@@ -1126,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The content was relevant to my role’s needs</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T195032Z" creationid="GMH" creationdate="20190716T195032Z">
+        <seg>محتویات با ضرورتهای نقش مرتبط بود</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The lessons were the right level of complexity for my background.</seg>
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T195005Z" creationid="GMH" creationdate="20190716T195005Z">
@@ -1138,6 +1170,14 @@
       </tuv>
       <tuv lang="FA-AF" changeid="GMH" changedate="20190716T191315Z" creationid="GMH" creationdate="20190716T191315Z">
         <seg>امتحان عملی شامل سه بخش میباشد.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The practical exam was a fair representation of the course content.</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="GMH" changedate="20190716T195138Z" creationid="GMH" creationdate="20190716T195138Z">
+        <seg>امتحان عملی مطابق به محتویات کورس تهیه گردیده بود</seg>
       </tuv>
     </tu>
     <tu>
